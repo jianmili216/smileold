@@ -9,15 +9,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <!--Basic Styles-->
-    <link href="<?=BASE_URL?>/style/bootstrap.css" rel="stylesheet">
-    <link href="<?=BASE_URL?>/style/font-awesome.css" rel="stylesheet">
-    <link href="<?=BASE_URL?>/style/weather-icons.css" rel="stylesheet">
+    <link href="<?= BASE_URL ?>/style/bootstrap.css" rel="stylesheet">
+    <link href="<?= BASE_URL ?>/style/font-awesome.css" rel="stylesheet">
+    <link href="<?= BASE_URL ?>/style/weather-icons.css" rel="stylesheet">
 
     <!--Beyond styles-->
-    <link id="beyond-link" href="<?=BASE_URL?>/style/beyond.css" rel="stylesheet" type="text/css">
-    <link href="<?=BASE_URL?>/style/demo.css" rel="stylesheet">
-    <link href="<?=BASE_URL?>/style/typicons.css" rel="stylesheet">
-    <link href="<?=BASE_URL?>/style/animate.css" rel="stylesheet">
+    <link id="beyond-link" href="<?= BASE_URL ?>/style/beyond.css" rel="stylesheet" type="text/css">
+    <link href="<?= BASE_URL ?>/style/demo.css" rel="stylesheet">
+    <link href="<?= BASE_URL ?>/style/typicons.css" rel="stylesheet">
+    <link href="<?= BASE_URL ?>/style/animate.css" rel="stylesheet">
 </head>
 
 <body>
@@ -98,25 +98,35 @@
                 <li>
                     <a href="/admin/index/index" target="_blank" class="menu-dropdown">
                         <i class="menu-icon fa fa-user"></i>
-                        <span class="menu-text">首页</span>
+                        <span class="menu-text">后台首页</span>
                         <i class="menu-expand"></i>
                     </a>
                 </li>
                 <li>
                     <a href="/user" class="menu-dropdown">
                         <i class="menu-icon fa fa-user"></i>
-                        <span class="menu-text">管理</span>
+                        <span class="menu-text">权限管理</span>
                         <i class="menu-expand"></i>
                     </a>
                     <ul class="submenu">
                         <li>
-                            <a href="/user">
+                            <a href="/admin/user/index">
                                     <span class="menu-text">
-                                        列表                                    </span>
+                                        管理员
+                                    </span>
+                                <i class="menu-expand"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/admin/user/index">
+                                    <span class="menu-text">
+                                        <权限表> </权限表>
+                                    </span>
                                 <i class="menu-expand"></i>
                             </a>
                         </li>
                     </ul>
+
                 </li>
 
                 <li>

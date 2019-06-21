@@ -15,10 +15,5 @@ class IndexController extends Yaf\Controller_Abstract {
 	public function indexAction() {
         $this->getView()->display('Layout.phtml');
 	}
-    public function bootstrapAction()
-    {
-        $result = UserModel::all();
 
-        $this->getView()->assign("result", $result);
-    }
 }
