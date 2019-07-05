@@ -12,6 +12,8 @@ class UserController extends Yaf\Controller_Abstract {
 
 	echo 6666;
 
+	echo 7777;
+
 
     }
 
