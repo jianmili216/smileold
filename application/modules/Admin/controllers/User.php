@@ -8,7 +8,10 @@ class UserController extends Yaf\Controller_Abstract {
         $result = UserModel::all();
         $this->getView()->display('Layout.phtml');
         $this->getView()->assign("result", $result);
-	echo 5555;	
+	echo 5555;
+
+	echo 6666;
+
 
     }
 
