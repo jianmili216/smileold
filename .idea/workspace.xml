@@ -31,7 +31,11 @@
         <entry file="file://$PROJECT_DIR$/application/modules/Admin/controllers/User.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
+<<<<<<< HEAD
               <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+=======
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+>>>>>>> ecfc9abff1a3e5115d587e586a0042e88d311037
             </state>
           </provider>
         </entry>
@@ -154,6 +158,21 @@
       <path value="$PROJECT_DIR$/vendor/illuminate/validation" />
       <path value="$PROJECT_DIR$/vendor/illuminate/translation" />
       <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/cache/tag-interop" />
+      <path value="$PROJECT_DIR$/vendor/cache/adapter-common" />
+      <path value="$PROJECT_DIR$/vendor/cache/filesystem-adapter" />
+      <path value="$PROJECT_DIR$/vendor/jaeger/g-http" />
+      <path value="$PROJECT_DIR$/vendor/jaeger/phpquery-single" />
+      <path value="$PROJECT_DIR$/vendor/jaeger/querylist" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/tightenco/collect" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
     </include_path>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
@@ -272,6 +291,7 @@
               <item name="smile" type="462c0819:PsiDirectoryNode" />
               <item name="application" type="462c0819:PsiDirectoryNode" />
               <item name="modules" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
             </path>
             <path>
               <item name="smile" type="b2602c69:ProjectViewProjectNode" />
@@ -283,6 +303,8 @@
               <item name="application" type="462c0819:PsiDirectoryNode" />
               <item name="modules" type="462c0819:PsiDirectoryNode" />
               <item name="Admin" type="462c0819:PsiDirectoryNode" />
+=======
+>>>>>>> ecfc9abff1a3e5115d587e586a0042e88d311037
             </path>
             <path>
               <item name="smile" type="b2602c69:ProjectViewProjectNode" />
@@ -294,6 +316,20 @@
               <item name="application" type="462c0819:PsiDirectoryNode" />
               <item name="modules" type="462c0819:PsiDirectoryNode" />
               <item name="Admin" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+=======
+            </path>
+            <path>
+              <item name="smile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+              <item name="PHP" type="5114b859:PhpExternalLibrariesNodePatcher$PatchedLibraryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="php" type="462c0819:PsiDirectoryNode" />
+              <item name="smile" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+>>>>>>> ecfc9abff1a3e5115d587e586a0042e88d311037
               <item name="controllers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -365,7 +401,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="75036000" />
+=======
+    <option name="totallyTimeSpent" value="75038000" />
+>>>>>>> ecfc9abff1a3e5115d587e586a0042e88d311037
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -580,6 +620,7 @@
     <entry file="file://$PROJECT_DIR$/application/controllers/Admin.php" />
     <entry file="file://$PROJECT_DIR$/application/views/Layout.phtml" />
     <entry file="file://$PROJECT_DIR$/application/controllers/User.php" />
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/application/modules/Admin/controllers/User.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -587,6 +628,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> ecfc9abff1a3e5115d587e586a0042e88d311037
     <entry file="file://$PROJECT_DIR$/application/modules/Admin/views/user/add.phtml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -625,6 +668,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/Admin/controllers/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/application/modules/Admin/controllers/Admin.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -632,10 +682,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules/Admin/controllers/Index.php">
+    <entry file="file://$PROJECT_DIR$/application/modules/Admin/controllers/User.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="119">
           <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+=======
+        <state relative-caret-position="170">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+>>>>>>> ecfc9abff1a3e5115d587e586a0042e88d311037
         </state>
       </provider>
     </entry>
